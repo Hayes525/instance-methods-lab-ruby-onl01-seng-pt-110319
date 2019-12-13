@@ -4,5 +4,5 @@ class Person
   end
   def walk
     puts "The person is walking"
-  end   
-end 
+  end
+end
